@@ -1,0 +1,22 @@
+{
+  "name": "DYManagerTool",
+  "version": "0.1.0",
+  "summary": "A short description of DYManagerTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/935866988@qq.com/DYManagerTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "935866988@qq.com": "liangyongsheng@danyuantech.com"
+  },
+  "source": {
+    "git": "https://github.com/935866988@qq.com/DYManagerTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DYManagerTool/Classes/**/*"
+}

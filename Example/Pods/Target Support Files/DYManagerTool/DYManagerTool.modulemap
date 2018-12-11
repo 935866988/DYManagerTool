@@ -1,0 +1,6 @@
+framework module DYManagerTool {
+  umbrella header "DYManagerTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

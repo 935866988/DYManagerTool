@@ -1,0 +1,6 @@
+framework module Pods_DYManagerTool_Tests {
+  umbrella header "Pods-DYManagerTool_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

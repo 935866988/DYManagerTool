@@ -4,7 +4,7 @@
  BSD License, Use at your own risk
  */
 
-#import "UIViewExt.h"
+#import "DYUIViewExt.h"
 
 CGPoint CGRectGetCenter(CGRect rect)
 {

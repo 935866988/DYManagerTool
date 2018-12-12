@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DYManagerTool'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'DYManagerTool是对类别的封装'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,5 @@ DYManagerTool是对类别的封装,方便二次集成使用
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'MBProgressHUD', '~> 1.1.0'
 end
